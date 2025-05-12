@@ -1,4 +1,4 @@
-package org.zerock.backend.domain.dto;
+package org.zerock.backend.domain.board.dto;
 
 public class BoardDto {
 
